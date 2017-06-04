@@ -23,3 +23,11 @@
   #redes-margin {
     margin-top: 9.9em;
 }
+
+.nav > li {
+    display: table-cell;
+    width: 13vw;
+    float: none;
+    text-align: center;
+
+}
