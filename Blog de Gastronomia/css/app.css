@@ -1,4 +1,4 @@
-body {
+body, #titulo {
   font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -12,10 +12,5 @@ body {
 
 .nombre {
   color: #0a335c;
+  margin: 0;
 }
-
-/* Fuentes
-font-family: 'Josefin Sans', sans-serif;
-font-family: 'Dancing Script', cursive;
-font-family: 'Permanent Marker', cursive;
-*/
